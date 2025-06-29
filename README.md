@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**wangui-wamutitu/wangui-wamutitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m Christine, a Software Engineer based in Nairobi, Kenya 🇰🇪 with a passion for building secure, scalable, and cloud-ready systems that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I have years of experience building software across startups and SaaS companies, I specialize in full-stack development with React, Next.js, Node.js, Python, Django, MongoDB and PostgreSQL. I’m also AWS Solutions Architect Associate certified and actively growing my skills in backend infrastructure, identity systems, and DevOps (Docker, Kubernetes, CI/CD).
+
+### 🔭 What I'm Currently Working On
+- Developing cross-platform apps used daily by thousands
+- Designing reliable backend systems and CI/CD workflows
+- Sharpening my system design and distributed architecture skills
+- Preparing for my next big leap — working on impactful infrastructure at scale
+
+### 💡 What I Value
+- Resilient design over quick fixes  
+- Clarity in code and communication  
+- Constant curiosity and learning  
+
+### 🧰 My Toolkit
+TypeScript, React/React Native, Node.js, Express.js, Python, Django, PostgreSQL, Docker, GitHub Actions, AWS, Kubernetes, and more...
+
+---
+
+🧠 **Fun fact:** I recently caught myself trying to optimize a family group chat like it’s a distributed queue.  
+That’s when I knew system design had me in a chokehold.
+
+📫 Let’s connect:  
+🌐 [Portfolio](https://wanguiportfolio.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/christine-wangui-65468120a) • 🧑🏽‍💻 [GitHub](https://github.com/wangui-wamutitu)
+
+> “I build with curiosity, ship with care, and always level up.”
+
 -->
