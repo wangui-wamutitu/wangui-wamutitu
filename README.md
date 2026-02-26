@@ -2,7 +2,7 @@
 
 I’m Christine, a Software Engineer based in Nairobi, Kenya 🇰🇪 with a passion for building secure, scalable, and cloud-ready systems that make a difference.
 
-I have years of experience building software across startups and SaaS companies, I specialize in full-stack development with React, Next.js, Node.js, Python, Django, MongoDB and PostgreSQL. I’m also AWS Solutions Architect Associate certified and actively growing my skills in backend infrastructure, identity systems, and DevOps (Docker, Kubernetes, CI/CD).
+I have years of experience building software across startups and SaaS companies, I specialize in full-stack development with React, React Native, Expo, Flutter, Next.js, Node.js, Python, Django, MongoDB and PostgreSQL. I’m also AWS Solutions Architect Associate certified and actively growing my skills in backend infrastructure, identity systems, and DevOps (Docker, Kubernetes, CI/CD).
 
 ### 🔭 What I'm Currently Working On
 - Developing cross-platform apps used daily by thousands
